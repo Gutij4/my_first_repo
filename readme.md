@@ -1,38 +1,24 @@
-# This is a large heading
+# Javier Gutierrez
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the
-	poet's pen,
-Turns them to shapes and gives to airy
-	nothing,
-A local *habitaion# This is a large heading
+I live in the city of Bogota, capital of  Colombia South America.
 
-## This is a smaller heading
+### Reading
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Three of my favorte books are:
 
-- This is
-- an unordered
-- list
+- *Cien años de Soledad* by Gabriel Garcia Marquez
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-1. This is
-2. an ordered
-3. list
+### Food
 
-Here is `some code` in the middle of a sentence.
+Last night i dreamt about eatin in three restaurants:
 
-```
-This is
-a block
-of code
-```
+1. Makki in Bogota
+2. Hache in Bogota
+3. El Corral in Bogota
 
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+### Contact
+The best way to get in contact with me is by [on Twitter](https://twitter.com/seankross). 
